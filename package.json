@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/swatson9008/template#readme",
   "devDependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
     "babel-loader": "^9.1.2",
     "css-loader": "^6.7.3",
     "eslint": "^8.31.0",
@@ -26,6 +27,8 @@
     "eslint-plugin-import": "^2.27.4",
     "html-loader": "^4.2.0",
     "html-webpack-plugin": "^5.5.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^29.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
